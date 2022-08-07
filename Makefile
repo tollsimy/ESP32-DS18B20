@@ -3,7 +3,6 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := esp32-ds18b20-example
+PROJECT_NAME := DS18B20-test
 
 include $(IDF_PATH)/make/project.mk
-
